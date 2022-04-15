@@ -1,5 +1,5 @@
-### Olá, me chamo Wesley Maik e eu amo tecnologia! 👋
-## Estudante de programação. 
+### Hi, I'm Wesley Maik and i love technology 👋
+## Frontend Developer/Engineer and UI/UX Designer. 
 <div style="display: inline_block"><br>
   <img align="center" alt="Maik-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Maik-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
