@@ -1,4 +1,4 @@
-### Hi, I'm Wesley Maik and i love technology 👋
+# Hi, I'm Wesley Maik and i love technology <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32"/>
 ## Frontend Developer/Engineer and UI/UX Designer. 
 <div style="display: inline_block"><br>
   <img align="center" alt="javascript-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
