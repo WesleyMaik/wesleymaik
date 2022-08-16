@@ -38,6 +38,6 @@
 
   <h4>Technologies</h4>
 
-  [![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,typescript,jquery,nodejs,express,webpack,react,vite,redux,next,vue,nuxt,sass,php,laravel,wordpress,mysql,mongodb,python,graphql,codepen,regex,vercel,md,git,github,photoshop,illustrator)](https://skills.thijs.gg)
+  [![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,typescript,jquery,nodejs,express,webpack,react,vite,redux,next,vue,nuxt,sass,styledcomponents,php,laravel,wordpress,mysql,mongodb,python,graphql,codepen,vercel,md,git,github,photoshop,illustrator)](https://skills.thijs.gg)
   <hr />
 </div>
