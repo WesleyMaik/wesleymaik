@@ -58,7 +58,7 @@
   <hr />
    <div align="center">
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleymaik&langs_count=8)](https://github.com/wesleymaik)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleymaik&layout=compact&langs_count=8)](https://github.com/wesleymaik)
    
    [![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleymaik)](https://github.com/wesleymaik)
     
