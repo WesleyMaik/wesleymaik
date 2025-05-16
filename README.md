@@ -4,13 +4,13 @@
 
 ### 🎓 About me:
 
-🚀 Passionate about web development and problem-solving.<br/>
-💡 Specializing in Frontend Development & UI/UX Design, with strong backend skills.<br/>
-🌍 Based in Campo Grande, Brazil.<br/>
-🖥️ Experienced in crafting scalable, high-performance digital products.<br/>
-📚 Constantly learning and improving my skills in modern technologies<br/>
-✅ VTEX IO Certified<br/>
-🧑‍🎓 Currently studying Bachelor of Technology - Systems Analysis and Development Student.<br/>
+- 🖥️ 4+ years of experience building scalable, high-performance digital products.<br/>
+- 🚀 Passionate about web development and problem-solving.<br/>
+- 💡 Specializing in Frontend Development & UI/UX Design, with strong backend skills.<br/>
+- ✅ 1x VTEX IO Certified<br/>
+- 📚 Constantly learning and improving my skills in modern technologies<br/>
+- 🌍 Based in Campo Grande, Brazil.<br/>
+- 🧑‍🎓 B.Tech in Systems Analysis and Development (ongoing)<br/>
 
 ### 🛠️ Technologies & Tools:
 
