@@ -94,6 +94,12 @@ I thrive in environments that encourage creativity, problem-solving, and innovat
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleymaik&show_icons=true&theme=tokyonight"/>
 </div>
 
+### 🏆 GitHub Trophies:
+
+<div align="center">
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=wesleymaik&rank=SECRET,S,AAA,AAA,A,B,C&theme=dracula"/>
+</div>
+
 ---
 
 ### 📫 Let's Connect:
