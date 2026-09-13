@@ -1,9 +1,6 @@
 name: GitHub Profile Trophy
 
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
   schedule:
     - cron: "0 6 * * *"
@@ -23,7 +20,7 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: wesleymaik
-          output_path: profile/trophy.svg
+          file: profile/trophy.svg
           theme: tokyonight
           token: ${{ secrets.PROFILE_TOKEN }}
 
