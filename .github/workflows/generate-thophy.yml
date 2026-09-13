@@ -1,28 +1,53 @@
-name: GitHub Profile Trophy Action
+name: GitHub Profile Trophy
+
 on:
   push:
     branches:
       - main
   workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *"
+
+permissions:
+  contents: write
 
 jobs:
   generate-trophy:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
       - name: Generate trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: wesleymaik
-          output_path: trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          output_path: profile/trophy.svg
+          theme: tokyonight
+          token: ${{ secrets.PROFILE_TOKEN }}
+
       - name: Verify SVG generated
         run: |
-          if [ -f trophy.svg ]; then
-            echo "SVG exsists ($(wc -c < trophy.svg) Bytes)"
-            file trophy.svg
+          if [ -f profile/trophy.svg ]; then
+            echo "SVG exists ($(wc -c < profile/trophy.svg) bytes)"
+            file profile/trophy.svg
           else
             echo "SVG failed to generate"
             exit 1
           fi
+
+      - name: Commit updated trophy
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/trophy.svg
+
+          if git diff --cached --quiet; then
+            echo "No trophy changes."
+            exit 0
+          fi
+
+          git commit -m "chore: update GitHub trophy [skip ci]"
+          git push
