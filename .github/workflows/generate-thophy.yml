@@ -1,6 +1,28 @@
-- name: Generate trophy
-  uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-  with:
-    username: wesleymaik
-    output_path: trophy.svg
-    token: ${{ secrets.GITHUB_TOKEN }}
+name: GitHub Profile Trophy Action
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  generate-trophy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: wesleymaik
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Verify SVG generated
+        run: |
+          if [ -f trophy.svg ]; then
+            echo "SVG exsists ($(wc -c < trophy.svg) Bytes)"
+            file trophy.svg
+          else
+            echo "SVG failed to generate"
+            exit 1
+          fi
