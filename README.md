@@ -134,7 +134,7 @@ I still care deeply about good interfaces and product experience. For me, AI is 
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wesleymaik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
+  <img src="./profile/trophy.svg" />
 </div>
 
 ---
