@@ -40,15 +40,22 @@ My goal is to combine strong software engineering fundamentals with modern AI ca
 ### 🤖 AI Engineering
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge\&logo=openai\&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge\&logo=anthropic\&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge\&logo=codex\&logoColor=white)
+![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge\&logo=googlegemini\&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%238957E5.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white)
+![Langflow](https://img.shields.io/badge/langflow-%230066CC.svg?style=for-the-badge&logo=langflow&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 
 ![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge)
 ![LLM Apps](https://img.shields.io/badge/LLM_Applications-412991?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-MCP-5A67D8?style=for-the-badge)
+![RAG](https://img.shields.io/badge/Retrieval_Augmented_Generation-RAG-D85A69?style=for-the-badge)
 
 ### ⚙️ Software Engineering
 
